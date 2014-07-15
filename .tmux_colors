@@ -1,4 +1,6 @@
-## Look n' Feel
+## Written by Sid Verma
+## github.com/tmux-monochrome-colors
+
 
 # Support pretty colors
 set -g default-terminal "screen-256color"
@@ -28,4 +30,3 @@ set -g message-fg colour245
 # Mode colors
 setw -g mode-bg colour8
 setw -g mode-fg colour7
-
